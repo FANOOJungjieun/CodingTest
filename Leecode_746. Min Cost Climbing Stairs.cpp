@@ -1,3 +1,11 @@
+/*
+
+Runtime: 3 ms, faster than 97.37% of C++ online submissions for Min Cost Climbing Stairs.
+Memory Usage: 13.7 MB, less than 48.06% of C++ online submissions for Min Cost Climbing Stairs.
+
+
+*/
+
 class Solution {
 public:
     int minCostClimbingStairs(vector<int>& cost) {
